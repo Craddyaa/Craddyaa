@@ -1,2 +1,2 @@
 ﻿# bubu-dudu-valentine
-[Bubu Dudu Valentine](https://bubu-dudu-valentine.app)
+[Bubu Dudu Valentine](https://github.com/Craddyaa/mritunjai.git)
