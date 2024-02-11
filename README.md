@@ -1,2 +1,2 @@
 ﻿# bubu-dudu-valentine
-[Bubu Dudu Valentine](https://bubu-dudu-valentine.netlify.app)
+[Bubu Dudu Valentine](https://bubu-dudu-valentine.app)
